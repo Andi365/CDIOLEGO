@@ -1,0 +1,10 @@
+// Project configuration
+brick.pref {
+    // Main class //
+    mainClass = "example.programming.FractalTree"
+
+    // Brick connection parameters //
+    sshHost = "172.20.10.2"
+    sshUser = "robot"
+    sshPassword = "maker"
+}
